@@ -49,7 +49,7 @@ for (let i = 0; i < 5; i++){
 		Class_Participation: classParticipation,
 		Summative_Assessment: summativeassessmentFinal,
 		Exam_Grade: majorexamGrade,
-		Grade_Score: majorexamGrade,
+		Grade_Score: letterGrade,
 		Letter_Grade: letter
 	};
 };
